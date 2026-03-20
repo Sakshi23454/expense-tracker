@@ -1,14 +1,10 @@
-💰 Expense Tracker
+# 💰 Expense Tracker
 
----
-
-📌 Project Description
+## 📌 Project Description
 
 The Expense Tracker is a simple and responsive web application that helps users manage their daily expenses efficiently. It allows users to add, view, and categorize expenses, providing a clear overview of spending habits.
 
----
-
-🚀 Features
+## 🚀 Features
 
 ➕ Add new expenses with details
 
@@ -22,9 +18,8 @@ The Expense Tracker is a simple and responsive web application that helps users 
 
 🎨 Clean and user-friendly interface
 
----
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 HTML5 – Structure of the application
 
